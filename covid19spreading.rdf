@@ -1,0 +1,6 @@
+<?xml version="1.0 ?>
+<rdf xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:s="http://description.org/schema/" > 
+  <Description about="https://www.xul.fr/Wells">
+     <s:author>The Invisible Man<s:author>
+  </Description>
+</rdf>
