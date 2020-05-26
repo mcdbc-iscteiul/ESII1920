@@ -82,9 +82,9 @@
 
     <owl:NamedIndividual rdf:about="&untitled-ontology-3;Alentejo">
         <rdf:type rdf:resource="&untitled-ontology-3;Regiao"/>
-        <Internamentos rdf:datatype="&xsd;integer">25</Internamentos>
-        <Infecoes rdf:datatype="&xsd;integer">160</Infecoes>
-        <Testes rdf:datatype="&xsd;integer">150</Testes>
+        <Internamentos rdf:datatype="&xsd;integer">125</Internamentos>
+        <Infecoes rdf:datatype="&xsd;integer">560</Infecoes>
+        <Testes rdf:datatype="&xsd;integer">350</Testes>
     </owl:NamedIndividual>
     
 
@@ -93,9 +93,9 @@
 
     <owl:NamedIndividual rdf:about="&untitled-ontology-3;Algarve">
         <rdf:type rdf:resource="&untitled-ontology-3;Regiao"/>
-        <Infecoes rdf:datatype="&xsd;integer">130</Infecoes>
-        <Internamentos rdf:datatype="&xsd;integer">35</Internamentos>
-        <Testes rdf:datatype="&xsd;integer">280</Testes>
+        <Infecoes rdf:datatype="&xsd;integer">630</Infecoes>
+        <Internamentos rdf:datatype="&xsd;integer">135</Internamentos>
+        <Testes rdf:datatype="&xsd;integer">380</Testes>
     </owl:NamedIndividual>
     
 
